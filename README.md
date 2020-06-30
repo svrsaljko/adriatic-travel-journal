@@ -7,3 +7,7 @@
 ## Hurry up and sign in because time is limited ;)
 
 <img alt="prizes-and-timer" src="./readmeImages/adriatic-travel-journal3.PNG">
+
+### Responsive for mobile and tablets
+
+<img alt="prizes-and-timer" src="./readmeImages/adriatic-travel-journal4.PNG">
