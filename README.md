@@ -8,6 +8,6 @@
 
 <img alt="prizes-and-timer" src="./readmeImages/adriatic-travel-journal3.PNG">
 
-### Responsive for smartphone and tablets
+### Responsive for smartphones and tablets
 
 <img alt="prizes-and-timer" src="./readmeImages/adriatic-travel-journal4.jpg">
