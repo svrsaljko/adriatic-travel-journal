@@ -10,4 +10,4 @@
 
 ### Responsive for mobile and tablets
 
-<img alt="prizes-and-timer" src="./readmeImages/adriatic-travel-journal4.PNG">
+<img alt="prizes-and-timer" src="./readmeImages/adriatic-travel-journal4.jpg">
