@@ -1,3 +1,1 @@
-# Project for NWT
-
-## adriatic travel journal update
+<img alt="title" src="./readmeImages/adriatic-travel-journal1.PNG">
